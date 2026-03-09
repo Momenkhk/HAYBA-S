@@ -32,5 +32,9 @@
     "st.db": "^7.0.2",
     "timezone-support": "^3.1.0",
     "tranfer-credit-probot-check": "^1.0.4"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "check": "node --check index.js && node --check function/commands.js && node --check function/Express.js"
   }
 }
