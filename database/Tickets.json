@@ -1,0 +1,107 @@
+{
+    "Tickets_Support": [
+        {
+            "userid": "412629615081684992",
+            "time": "<t:1769964197:R>",
+            "claim": null,
+            "transcrept": null,
+            "NameTicket": "دعم-فني-_7rz_",
+            "Ticket": "1467560953888506095",
+            "type": "open"
+        }
+    ],
+    "Tickets_Tashher": [
+        {
+            "userid": "412629615081684992",
+            "time": "<t:1769674915:R>",
+            "claim": null,
+            "transcrept": null,
+            "NameTicket": "قضاة-27",
+            "Ticket": "1466347609240240273",
+            "type": "open"
+        }
+    ],
+    "Tickets_Mzad": [],
+    "Tickets_Spin": [],
+    "Tickets_complaints": [
+        {
+            "userid": "772207868152905788",
+            "time": "<t:1747510837:R>",
+            "claim": null,
+            "transcrept": null,
+            "NameTicket": "complain-9",
+            "Ticket": "1373384734452879380",
+            "type": "open"
+        }
+    ],
+    "Tickets_waset1": [
+        {
+            "userid": "772207868152905788",
+            "time": "<t:1749586587:R>",
+            "claim": null,
+            "transcrept": null,
+            "Buys": null,
+            "NameTicket": "med-3",
+            "Ticket": "1382090803828228156",
+            "type": "Waseet1"
+        },
+        {
+            "userid": "772207868152905788",
+            "time": "<t:1749959595:R>",
+            "claim": null,
+            "transcrept": null,
+            "Buys": null,
+            "NameTicket": "med-4",
+            "Ticket": "1383655291077529672",
+            "type": "Waseet1"
+        }
+    ],
+    "Tickets_waset2": [
+        {
+            "userid": "772207868152905788",
+            "time": "<t:1749586593:R>",
+            "claim": null,
+            "transcrept": null,
+            "Buys": null,
+            "NameTicket": "med-1",
+            "Ticket": "1382090829686116422",
+            "type": "Waseet2"
+        }
+    ],
+    "Tickets_waset3": [
+        {
+            "userid": "772207868152905788",
+            "time": "<t:1749586598:R>",
+            "claim": null,
+            "transcrept": null,
+            "Buys": null,
+            "NameTicket": "med-1",
+            "Ticket": "1382090848723800276",
+            "type": "Waseet3"
+        }
+    ],
+    "Tickets_waset4": [
+        {
+            "userid": "772207868152905788",
+            "time": "<t:1749586604:R>",
+            "claim": null,
+            "transcrept": null,
+            "Buys": null,
+            "NameTicket": "med-1",
+            "Ticket": "1382090871108927521",
+            "type": "Waseet4"
+        }
+    ],
+    "Tickets_waset5": [
+        {
+            "userid": "772207868152905788",
+            "time": "<t:1749586610:R>",
+            "claim": null,
+            "transcrept": null,
+            "Buys": null,
+            "NameTicket": "med-1",
+            "Ticket": "1382090901974683698",
+            "type": "Waseet5"
+        }
+    ]
+}
